@@ -1,0 +1,28 @@
+.playground {
+  height: 800px;
+  width: 800px;
+  border: 2px solid red;
+  padding: 10px;
+}
+
+.square1 {
+  height: 80px;
+  width: 80px;
+  border: 2px solid rgb(81, 0, 255);
+  position: absolute;
+  left: 200px;
+  top: 400px;
+}
+
+.square2 {
+  height: 80px;
+  width: 80px;
+  border: 2px solid rgb(81, 0, 255);
+  position: absolute;
+  left: 500px;
+  top: 400px;
+}
+
+.selected {
+  border: 2px solid red;
+}/*# sourceMappingURL=style.css.map */
